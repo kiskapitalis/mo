@@ -1,0 +1,14 @@
+textarea{
+    text-align:left;
+}
+.popover{
+    max-width:500px;
+}
+.spinner primary-spinner{
+	text-align: center;
+}
+
+.redlink
+{
+	color:red;
+}
